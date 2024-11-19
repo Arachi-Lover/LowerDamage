@@ -1,0 +1,5 @@
+
+outfit "Quarg Skylance"
+	weapon
+		"shield damage" 12.5
+		"hull damage" 10
