@@ -28,8 +28,7 @@ T2.5
 	* 0.85 damage
 	(The MCS Extractor was spared for it already is terrible at dealing damage)
 T3
-	* 0.25 damage
-	(Tier 3 damage values are absolutely busted currently, so much so that even by significantly *dropping* the multiplier with the Tier increase, the Gridfire and Skylance would still be drastically more powerful than any of the weapons below T3)
+	* 0.9 damage
 T4
 	* 0.6 damage
 	(Only the Drak Augmented weapons were affected)
