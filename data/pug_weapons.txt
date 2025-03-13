@@ -16,5 +16,5 @@ outfit "Pug Seeker"
 
 outfit "Pug Gridfire Turret"
 	weapon
-		"shield damage" 150
-		"hull damage" 150
+		"shield damage" 270
+		"hull damage" 270
