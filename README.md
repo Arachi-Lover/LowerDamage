@@ -33,3 +33,9 @@ T4
 	* 0.6 damage
 	(Only the Drak Augmented weapons were affected)
 ```
+
+#### Arachi's Plugins
+
+[LinearHPScaling](https://github.com/Arachi-Lover/LinearHPScaling)
+[LowerDamage](https://github.com/Arachi-Lover/LowerDamage)
+[EvenLowerDamage](https://github.com/Arachi-Lover/EvenLowerDamage)
