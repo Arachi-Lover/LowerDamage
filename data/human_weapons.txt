@@ -34,6 +34,11 @@ outfit "Modified Blaster Turret"
 		"shield damage" 9.2
 		"hull damage" 6.2
 
+outfit "Heavy Blaster"
+	weapon
+		"shield damage" 63
+		"hull damage" 37.8
+
 outfit "Beam Laser"
 	weapon
 		"shield damage" 0.7
