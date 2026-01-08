@@ -39,3 +39,4 @@ T4
 [LinearHPScaling](https://github.com/Arachi-Lover/LinearHPScaling)
 [LowerDamage](https://github.com/Arachi-Lover/LowerDamage)
 [EvenLowerDamage](https://github.com/Arachi-Lover/EvenLowerDamage)
+[RacingFlivverModifications](https://github.com/Arachi-Lover/RacingFlivverModifications)
